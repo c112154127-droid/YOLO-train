@@ -10,7 +10,7 @@
 
 ### 系統需求
 * **Python**: 3.8+
-* **GPU**: 建議 NVIDIA T4/V100/A100 (需支援 CUDA 12.1)
+* **GPU**: NVIDIA 5060Ti
 * **Framework**: PyTorch, Ultralytics
 
 ### 安裝指令
