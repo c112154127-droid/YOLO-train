@@ -17,8 +17,8 @@
 請執行以下指令安裝必要依賴：
 
 ```bash
-# 安裝 PyTorch (CUDA 12.1 版本)
-pip install torch torchvision torchaudio --index-url [https://download.pytorch.org/whl/cu121](https://download.pytorch.org/whl/cu121)
+# 安裝 PyTorch (CUDA 13.0 版本)
+pip install torch torchvision torchaudio --index-url [https://download.pytorch.org/whl/cu130](https://download.pytorch.org/whl/cu130)
 
 # 安裝 YOLO 框架
 pip install ultralytics
